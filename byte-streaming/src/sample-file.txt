@@ -1,0 +1,2 @@
+Hello from sample File.
+I want to learn java input and output .
